@@ -1,6 +1,7 @@
 # Site settings
 title: SiBlog
 SEOTitle: Sibelius Peng's Blog
+author: "Sibelius Peng"
 header-img: img/bg.jpg
 description: "Sibelius Peng, a musimathician."
 keyword: "Sibelius, Peng, Math, Music, Computer Science"
@@ -73,7 +74,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: false # whether or not using Sidebar.
-sidebar-about-description: "musimathician"
+sidebar-about-description: "A musimathician"
 sidebar-avatar: "" # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
