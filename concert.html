@@ -1,6 +1,6 @@
 ---
 title: Concerts
-subtitle: 2022-2023 Season
+description: "2022-2023 Season"
 layout: default
 header-img: "img/bg.jpg"
 ---
@@ -44,10 +44,10 @@ https://github.com/kitian616/jekyll-TeXt-theme
 							<h2 class="post-title">
 								{{ _article.title }}
 							</h2>
+							<h3 class="post-subtitle">
+								{{ _article.date | date: '%A, %B %-d, %Y' }}, {{ _article.location }}
+							</h3>
 						</a>
-						<h3 class="post-subtitle">
-							{{ _article.date }}, {{ _article.location }}
-						</h3>
 					</div>
 					<hr>
 					
