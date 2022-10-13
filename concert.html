@@ -1,5 +1,6 @@
 ---
 title: Concerts
+subtitle: 2022-2023 Season
 layout: default
 header-img: "img/bg.jpg"
 ---
@@ -18,7 +19,7 @@ https://github.com/kitian616/jekyll-TeXt-theme
 			
 
 			<!-- Article List -->
-			<div class="mini-post-list js-result d-none">
+			<div class="mini-post-list">
 				{%- assign _sorted_list = site.data.2223concerts -%}
 				{%- assign _sorted_list = _sorted_list | sort: 'date' -%}
 
@@ -38,15 +39,16 @@ https://github.com/kitian616/jekyll-TeXt-theme
 					{%- assign _date = _currentdate -%}
 					{%- endif -%}
 
-					
+					<div class="post-preview item"></div>
 					<a href="{{ _article.url }}" target="_blank">
 						<h2 class="post-title">
 							{{ _article.title }}
 						</h2>
 					</a>
 					<h3 class="post-subtitle">
-						{{ _article.date }}
+						{{ _article.date }}, {{ _article.location }}
 					</h3>
+					</div>
 					<hr>
 					
 					{%- if forloop.last -%}
