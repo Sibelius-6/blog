@@ -5,6 +5,44 @@ title: Shoes
 
 在这里浅浅的收藏一下好看的鞋，主要都是男款的粉色鞋，毕竟留给男生的粉色鞋不多。
 
+# Not Released
+## Ralph Lauren x Air Jordan 4 “Polo Pack”
+![](/img/shoes/RLxAJ.jpg)
+
+Src: [houseofheat](https://houseofheat.co/jordan/52957-air-jordan-9-retro-black-university-red-dark-concord-302370-065-release-info/)
+
+## AJ 4 粉水泥
+![](/img/shoes/aj4-softpink.jfif)
+
+Src: [xhs](http://xhslink.com/XU0ASk), [kicksonfire](https://twitter.com/kicksonfire/status/1476342380819365894?s=20&t=8WqGsoz2DyVizefSpO9oXQ)
+
+## AJ 4 冰蓝色
+![](/img/shoes/aj4-iceblue.jfif)
+
+Src: [xhs](http://xhslink.com/jE8ASk)
+
+## AJ4 哪朵玫瑰没有荆棘
+![](/img/shoes/aj4-rosetone.jfif)
+
+Src: [xhs](http://xhslink.com/Cf8ASk), [twitter](https://twitter.com/kicksonfire/status/1578913183703568384?s=20&t=ApXb3tSx_eS6lA0xVH3NMw)
+
+## AJ4 樱花粉
+![](/img/shoes/aj4-pinkriot.jfif)
+
+Src: [xhs](http://xhslink.com/y28ASk), [twitter](https://twitter.com/kicksonfire/status/1496681353773002755?s=20&t=64XTIom2G3OZBsembnPFnA)
+
+## Marge Simpsons
+![](/img/shoes/marge.jfif)
+
+Src: [solecollector](https://solecollector.com/news/the-simpsons-adidas-superstar-marge-simpson-release-date)
+
+## Homer Simpsons
+![](https://eloutput.com/app/uploads-eloutput.com/2022/10/zapatilla-homer-setos-el-output-concept.jpg)
+
+Src: [gearrice](https://www.gearrice.com/update/these-simpsons-x-adidas-sneakers-are-the-best-thing-youll-see-today/)
+
+# Released
+
 ## Nike PG 6 Painted Swoosh
 这里颜色我选择的是 Pink/Blue/Orange-White。
 
