@@ -85,9 +85,9 @@ Src: [sail.ca](https://www.sail.ca/en/newbalance-574-multisport-shoes-junior-gir
 
 ## Air Jordan 7 SE “Shimmer”
 
-![](/img/shoes/aj7.jpg)
+![](/img/shoes/shimmer.jpg)
 
-Src: [sneakernews](https://sneakernews.com/2022/03/18/air-jordan-7-shimmer-black-sapphire-dj2636-204-release-date/)
+Src: [jdsports](https://jdsports.ca/products/jordan-7-retro-se-shimmer-black-sapphire)
 
 ## SB Dunk Low Pink Box
 
