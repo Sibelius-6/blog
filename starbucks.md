@@ -55,3 +55,15 @@ Venti Royal English Breakfast Tea
 
 Src: [xhs](http://xhslink.com/f96QRk)
 
+## 草莓海盐豆乳奶盖
+![](/img/starbucks/pink-drink.jpg)
+
+- Venti Pink Drink
+- Soy Milk
+- 3 Scoops of Strawberries
+- Add Strawberry Purée
+- Extra Salted Caramel Cold Foam on the top
+
+Src: [xhs](http://xhslink.com/RUvXSk)
+
+这款还是相当好喝的，但好像他们经常没有草莓，所以里面没有新鲜草莓，颜色跟xhs不太一样。
