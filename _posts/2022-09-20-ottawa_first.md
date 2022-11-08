@@ -110,7 +110,10 @@ Kanata 确实可探索的东西不多，所以在前两周我就租车探索了�
 
 ![](/img/ottawa/sip_tea.jpg)
 
-**功夫茶**：[ins](https://www.instagram.com/kungfutea_ottawa/). 当时去刚好碰上打折。实际品尝下来也是中规中矩，我也记不得点的什么了hh
+![](/img/ottawa/IMG_2617.JPG)
+
+
+**功夫茶**：[ins](https://www.instagram.com/kungfutea_ottawa/). 当时去刚好碰上打折。实际品尝下来也是中规中矩，我也记不得点的什么了。
 
 **鲜茶道**：kanata这家非常一般，渥太华也有一家Preso tea. 当时看评分还可以去的，但感觉也是中规中矩。
 

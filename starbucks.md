@@ -55,6 +55,8 @@ Venti Royal English Breakfast Tea
 
 Src: [xhs](http://xhslink.com/f96QRk)
 
+这个味道比上面的更浓郁了，毕竟加了3包茶。
+
 ## 草莓海盐豆乳奶盖
 ![](/img/starbucks/pink-drink.jpg)
 
@@ -67,3 +69,23 @@ Src: [xhs](http://xhslink.com/f96QRk)
 Src: [xhs](http://xhslink.com/RUvXSk)
 
 这款还是相当好喝的，但好像他们经常没有草莓，所以里面没有新鲜草莓，颜色跟xhs不太一样。
+
+
+## 焦糖布蕾栗子果仁拿铁
+
+![](/img/starbucks/IMG_2609.JPG)
+
+Src: [xhs](https://www.xiaohongshu.com/discovery/item/63659218000000000801217c?app_platform=ios&app_version=7.62.2&share_from_user_hidden=true&type=normal&xhsshare=WeixinSession&appuid=5ff8add60000000001003d3f&apptime=1667880082)
+
+还行。
+
+## 爱尔兰奶油燕麦奶咖
+
+![](/img/starbucks/IMG_2621.JPG)
+
+Venti Caffe misto, make with oat milk, add 2 pumps of Irish cream syrup and top it with Irish cream cold foam and extra cocoa powder
+
+Src: [xhs](https://www.xiaohongshu.com/discovery/item/6369d678000000000a007e90?app_platform=ios&app_version=7.62.2&share_from_user_hidden=true&type=normal&xhsshare=WeixinSession&appuid=5ff8add60000000001003d3f&apptime=1667920641)
+
+还行，巧克力味还是咖啡味有点重。
+
