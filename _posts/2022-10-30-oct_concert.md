@@ -70,6 +70,8 @@ Escamillo的扮演者 Lucas Meachem 远远的看过去觉得非常显老，应�
 
 这个是一个芭蕾舞剧。[Program notes](https://nac-cna.ca/en/event/notes/30549) 我个人觉得还是先要对这个故事有一定了解再看。这个芭蕾舞剧是没有字幕或者剧情提示的，只能通过演员的动作和背景猜个大概的剧情。芭蕾舞肯定是不错的，我个人还是更喜欢听配乐。一开始的配乐非常的现代，无论是和弦还是节奏。后来是到了妓院的片段，他们一起跳舞时候的配乐非常有百老汇的感觉，节奏性很强，还有架子鼓，非常带感。后来应该是比较幽怨的一段舞蹈，配乐是小提琴和钢琴。小提琴和弦和旋律非常丰富，同时能感觉到这个难度还是很大的，很多双音，三音，跨度也很大，我隐隐感觉他好像有拉错的地方。最后结尾是一个女舞者solo，配乐是那种minimalism的音乐。虽然我可能看不太懂剧情和舞蹈，但是配乐还是很赞的。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ulYdpsReic8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![](/img/22oct-concert/maid1.JPG)
 ![](/img/22oct-concert/maid2.JPG)
 ![](/img/22oct-concert/maid3.JPG)
