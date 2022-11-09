@@ -11,6 +11,7 @@ tags: 随笔 Opera Concert
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8ScTRtHIlcY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Notes
 - 预告片里面的孩子们我觉得太可爱了，大概在40s左右。
 - 当时同天的音乐会还有[王羽佳](https://my.tso.ca/2672)的, 不过听群友说曲子比较新，听起来没什么感觉。
 - 这个也是一部 opéra comique, 里面会不只有唱段，也会有一些说白话的段落。其他比较有名的 opéra comique 有军中女郎，La serva padrona (这个是之前作为[MUSIC 254](https://n.sibp.ro/music254)的例子来讲的)。
