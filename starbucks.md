@@ -55,7 +55,7 @@ Venti Royal English Breakfast Tea
 
 Src: [xhs](http://xhslink.com/f96QRk)
 
-这个味道比上面的更浓郁了，毕竟加了3包茶。
+这个味道比上面的更浓郁了，毕竟加了3包茶。这杯是生日那天免费领的。
 
 ## 草莓海盐豆乳奶盖
 ![](/img/starbucks/pink-drink.jpg)
@@ -89,3 +89,17 @@ Src: [xhs](https://www.xiaohongshu.com/discovery/item/6369d678000000000a007e90?a
 
 还行，巧克力味还是咖啡味有点重。
 
+## 海盐奶盖火龙果菠萝饮
+
+![](/img/starbucks/IMG_2632.jpg)
+
+- Paradise Drink Starbucks Refreshers Beverage
+- Venti 24 fl oz
+- 2 scoop(s) Dragonfruit Inclusion
+- Extra Salted Caramel Cream
+- Cold Foam
+- Soy
+
+Src: [xhs](http://xhslink.com/0rmtRk)
+
+味道很赞，火龙果味道很足。
