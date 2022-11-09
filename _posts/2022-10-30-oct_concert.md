@@ -26,6 +26,8 @@ Escamillo的扮演者 Lucas Meachem 远远的看过去觉得非常显老，应�
 
 最后再抱怨一下，虽然我的票挺贵的，在grand ring，但是视角是斜的，看着有点脖子累……
 
+[myscena](https://myscena.org/denise-lai/review-canadian-opera-companys-carmen-a-magnificent-spectacle/) 有篇专业review
+
 再附上几张照片。
 
 ![](/img/22oct-concert/carmen1.JPG)
