@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 初来渥太华
-tags: 随笔 Ottawa Kanata
+tags: 随笔 Ottawa Kanata food
 ---
 来渥太华（more precisely, Kanata）快两周了，在这记录一下这两周的奇妙经历。
 
@@ -20,7 +20,6 @@ tags: 随笔 Ottawa Kanata
 如果吃的比较健康的话我比较推荐Poke Bowl。有家叫做[Gogiya Sushi + Poke](https://www.gogiyabbq.com/sushi-n-poke-kanata-menu), 是韩国人开的。味道还不错。基本上一份Poke Bowl就够吃了。小吃的话可以试试天妇罗和Squid Salad，都是很棒的。
 
 还有些我没有踩过点的餐厅，🍠上有人推荐的，我先挖个坑，以后试了再填坑。
-- Kanata Noodle House
 - [Jade Yi's Kitchen](https://jadeyiskitchen.ca/shop/). 有人推荐鸡腿包糯米
 - Crazy House Stonegrill Steakhouse
 
@@ -77,6 +76,9 @@ Kanata 确实可探索的东西不多，所以在前两周我就租车探索了�
 
 **天天快餐 (Merivale)**: google map 搜索的话要搜day day fast food. 我去的时候差不多过了饭点（或者是饭点之前），所以餐馆里一个人都没有。老板娘说更多人是去点外卖。的确当时去的时候是大周一，大家都是下班放学回家，没有心思特地去跑一趟餐馆。当时点了一份黑椒牛肉饭+麻辣手撕鸡。这个牛肉饭有点偏辣，可能是黑胡椒粉放多了。这个麻辣手撕鸡的口味应该是我第一次吃，是真的非常实在的又麻又辣。当时吃完这两道菜我直冒汗……当时老板娘人很好，送了我个幸运饼干缓解一下，还送了个芝麻球（记不太清了）。吃的非常饱，如果不够吃可以让她加米饭。价格也非常友好，好像加起来不到20块钱，也没有小费。菜品样式来说中规中矩，不过我个人觉得它是一个非常健康的快餐，性价比很高。
 
+![](/img/ottawa2/IMG_2021.JPG)
+![](/img/ottawa2/IMG_2022.JPG)
+
 **陈氏河粉（Merivale）**: 其实当天本来想去吃重庆小面的，结果关门了，就来吃这家。当时健身完特别饿，加上前两天可能打羽毛球，急需补充碳水。我点的是鸡肉牛肉饭，刚好这个米饭分量非常非常足。
 ![鸡肉牛肉饭](/img/ottawa/steak-chicken.JPG)
 
@@ -84,7 +86,11 @@ Kanata 确实可探索的东西不多，所以在前两周我就租车探索了�
 
 其他菜品推荐的话有猪脚饭。
 
-然后相似的一个面食（也是主打越南粉）的话是**PHO BO GA 2 越南粉**。不过我对于尝试越南粉兴趣不大，之前在滑铁卢吃Ipho Vietnamese Cuisine已经吃了很多次了。个人感觉吃不出什么新花样，不过下次有机会可以试试。
+![](/img/ottawa2/IMG_2035.JPG)
+
+![](/img/ottawa2/IMG_2036.JPG)
+
+这个是pho和肠粉。
 
 **乐面（Byward）**: 肉夹馍有牛肉的，味道也还不错。主打牛肉面，但是感觉比较一般，跟滑铁卢的兰州拉面没有可比性。
 
@@ -112,6 +118,9 @@ Kanata 确实可探索的东西不多，所以在前两周我就租车探索了�
 
 ![](/img/ottawa/IMG_2617.JPG)
 
+![](/img/ottawa2/IMG_2023.JPG)
+
+![](/img/ottawa2/sip2.jpg)
 
 **功夫茶**：[ins](https://www.instagram.com/kungfutea_ottawa/). 当时去刚好碰上打折。实际品尝下来也是中规中矩，我也记不得点的什么了。
 
