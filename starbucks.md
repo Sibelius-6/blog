@@ -103,3 +103,17 @@ Src: [xhs](https://www.xiaohongshu.com/discovery/item/6369d678000000000a007e90?a
 Src: [xhs](http://xhslink.com/0rmtRk)
 
 味道很赞，火龙果味道很足。
+
+
+## 爱尔兰抹茶燕麦拿铁
+![](/img/starbucks/IMG_2655.jpg)
+
+Venti Matcha Tea Latte
+- 4 Scoops Matcha Powder
+- Extra Irish Cream Cold Foam
+- Less Ice
+- 换成Oatmilk
+
+Src: [xhs](https://www.xiaohongshu.com/discovery/item/636ae0390000000007037bc2?app_platform=ios&app_version=7.62.2&share_from_user_hidden=true&type=normal&xhsshare=WeixinSession&appuid=5ff8add60000000001003d3f&apptime=1668301615)
+
+这款非常好喝，有点酒味，不过我觉得抹茶粉挺多的，最后几口都是抹茶粉。
