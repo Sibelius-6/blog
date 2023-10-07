@@ -15,6 +15,9 @@ description: "“Mathematics is the most beautiful and most powerful creation of
         </h3>
         {% endif %}
         <div class="post-content-preview">
+            {% if post.layout == 'encrypted' %}
+                Encrypted content...
+            {% endif %}
             {% if post.lang == 'en' %}
                 {{ post.content | strip_html | truncate:300 }}
             {% else %}
