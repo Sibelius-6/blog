@@ -14,12 +14,18 @@
         "grunt-banner": "~0.2.3",
         "grunt-contrib-less": "^2.0.0",
         "grunt-contrib-uglify": "^4.0.1",
-        "grunt-contrib-watch": "^1.1.0"
+        "grunt-contrib-watch": "^1.1.0",
+        "gulp": "^4.0.2"
     },
     "scripts": {
         "start": "bundle exec jekyll serve",
         "dev": "grunt watch & npm run start",
         "boil": "git push boilerplate boilerplate:master",
         "push": "git push origin master --tag"
+    },
+    "dependencies": {
+        "crypto-js": "^4.1.1",
+        "gulp-util": "^3.0.8",
+        "marked": "^9.1.0"
     }
 }
