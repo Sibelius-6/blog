@@ -3,6 +3,7 @@ title: SiBlog
 SEOTitle: SiBlog
 author: "Sibelius Peng"
 header-img: img/album/albums.jpg # https://www.quickpicturetools.com/en/combine_images/
+header-mask: 0.7
 description: "Sibelius Peng, a musimathician."
 keyword: "Sibelius, Peng, Math, Music, Computer Science"
 url: "https://blog.sibeliusp.com" # your host, for absolute URL
