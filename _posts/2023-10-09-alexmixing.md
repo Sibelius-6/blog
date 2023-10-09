@@ -1,0 +1,8 @@
+---
+layout: encrypted
+title: 均衡+压缩+混响+母带
+tags: study music
+src: https://www.alexmixing.com/
+
+encrypted: b5dd398100aa5c4bfba21a8aa5386e18afbeda16af847180c14c056310a2fb09U2FsdGVkX188VufE85nIHzp+of9FLMFfD3Ve87PIaDrlB/byB8Eax0g1G8yk1Kl7Byyztc4kRu7zvWnfsNDWW5m7caT56e4tzoxH13ekI89XqZdG4hfUiKqxIWWf+YrKzYSGMac8p8voY64DtzJfbiw3JBw2mlvJpfilN6E3ETkiOKDEs5dn5MkKIVF9yB0vt/9I0MpfRQ9txprGXX4HkvRZglTHoOBT5QrFoEU1zBSuuiia7Cq0SxeKMdavqJK5huiTpJ+EYP2+K7BzRoDwTAONVwiTPuIYvNOc9U+g97YxitgdOdMndxUUlhvAlhft3uaCtrSWixDl3z213xFIDjWF3++CLpDpao+4HMFf6YOGOnyG7xlCtU5T3JpM0+r8
+---

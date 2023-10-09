@@ -3,6 +3,9 @@ layout: post
 ---
 
 <div id="encrypted_content">
+  {% if page.src %}
+    <p>This is the paid content from <a href="{{ page.src }}">{{ page.src }}</a>.</p>
+  {% endif %}
   <form id="encrypt_form" action="#" method="post">
     <input id="encrypt_password"
            type="password"
