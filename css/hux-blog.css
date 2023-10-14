@@ -740,10 +740,10 @@ select.sel-lang {
 table {
   margin-top: 10px;
 }
-table > tbody th,
-table > thead th,
-table > tbody td,
-table > thead td {
+table.table > tbody th,
+table.table > thead th,
+table.table > tbody td,
+table.table > thead td {
   border: 1px solid #eee !important;
 }
 @media screen and (max-width: 767px) {
