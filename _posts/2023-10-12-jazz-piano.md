@@ -4,5 +4,5 @@ title: Ultimate Keyboardist
 tags: notes acc music
 src: https://www.jazzpiano.top/
 
-encrypted: 949427fb5e6e2ddab14163faeacd6b7eb51cf300060707eacca22d2c5201f7c1U2FsdGVkX1+GAeITEzVF7G3sQUgJT/4PWmWrG83wpg4ZMFoRPZppAkyMoks9v68YJE56QB09kL5W5v6QqXZetg==
+encrypted: a17459f72d722887c08c90c1d31e4ca7bcbc862f75d8eb971a17a3afe69c7af2U2FsdGVkX1/QwIl5Ta0H2Vv03CT4RW5lE+gU7g+0WY3LTgQpWl/zRw8lT0HIuAwfKZDKjgst0Gvf5aoKTcktMw==
 ---
