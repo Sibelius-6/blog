@@ -8,7 +8,7 @@ description: "Sibelius Peng, a musimathician."
 keyword: "Sibelius, Peng, Math, Music, Computer Science"
 url: "https://blog.sibeliusp.com" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
-
+permalink: /:title
 # Publish posts or collection documents with a future date.
 future: true
 
