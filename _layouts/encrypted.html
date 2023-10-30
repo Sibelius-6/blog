@@ -33,6 +33,15 @@ layout: post
       var plainHTML = CryptoJS.AES.decrypt(encryptedHTML, passphrase).toString(CryptoJS.enc.Utf8);
       document.getElementById('encrypted_content').innerHTML = plainHTML;
 
+      var headers = $(':header');
+      headers.attr("id", function() {
+        return $(this)
+          .text() // get the h1 text
+          .trim() // remove spaces from start and the end
+          .toLowerCase() // optional
+          .replace(/\s/g, '_'); // convert all spaces to underscores
+      });
+
       function generateCatalog(selector) {
 
         // interop with multilangual 
