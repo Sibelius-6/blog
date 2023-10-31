@@ -4,5 +4,5 @@ title: 多轨混音基础课
 tags: notes alexmixing music
 src: https://www.alexmixing.com/
 
-encrypted: b4a66371a74d241d587bf4380ad6a8f03c8328bd226d3c25bb55d4aeb0e81d50U2FsdGVkX187wsSeqaZessfiH469UynzkUJXMzWN5dOmGDj82f6wa7/xTkPIZjJX0Uf2bDDX4pyZ7NKW+NoLY9vYQ/mgROE0H/85SkPq4Xk=
+encrypted: e770e88b4cdcc267a31049d2e601270e396a6b69b0d2dbbc5d240515899e8f08U2FsdGVkX1/pkYyzg9Vdz4EE/auYbIoblU3tAaKepcbyClH/03Ev5MlSj0o9uqhZMloqjxRm7BkzA4V7WHjc72EEUlE/55CiFbuB2CjKDf0=
 ---
