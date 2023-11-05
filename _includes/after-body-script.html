@@ -1,0 +1,21 @@
+<script>
+    var config = {
+        startOnLoad:true,
+        theme: 'forest',
+        flowchart:{
+                useMaxWidth:false,
+                htmlLabels:true
+            }
+    };
+    mermaid.initialize(config);
+    window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+
+    var anchors = document.getElementsByClassName('post-container')[0].getElementsByTagName('a');
+    for (var i=0; i<anchors.length; i++){
+        if (anchors[i].className !== "anchorjs-link " && anchors[i].className !== "post-nav") {
+            anchors[i].setAttribute('target', '_blank');
+            anchors[i].setAttribute('title', 'this link will be opened in a new tab');
+        }
+    }
+    
+</script>

@@ -4,7 +4,7 @@ layout: post
 
 <div id="encrypted_content">
   {% if page.src %}
-    <p>This is the paid content from <a href="{{ page.src }}">{{ page.src }}</a>. Always refresh the page to use the latest password.</p>
+    <p>This is the paid content from <a href="{{ page.src }}" target="_blank">{{ page.src }}</a>. Always refresh the page to use the latest password.</p>
   {% endif %}
   <form id="encrypt_form" action="#" method="post">
     <input id="encrypt_password"
@@ -98,16 +98,7 @@ layout: post
       });
       });
 
-      var config = {
-        startOnLoad:true,
-        theme: 'forest',
-        flowchart:{
-                useMaxWidth:false,
-                htmlLabels:true
-            }
-      };
-      mermaid.initialize(config);
-      window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+      {% include after-body-script.html %}
     });
   </script>
 </div>
